@@ -1,5 +1,5 @@
 body {
-	background-color: #fff !important;
+	background-color: #f1f1f1 !important;
 
 }
 
@@ -10,6 +10,7 @@ body {
 	width:400px;
 	display: flex;
 	justify-content: center;
+	border-radius: 0.30rem;
 }
 
 
