@@ -1,6 +1,5 @@
 body {
 	background-color: #f1f1f1 !important;
-
 }
 
 .container-login {
@@ -12,5 +11,20 @@ body {
 	justify-content: center;
 	border-radius: 0.30rem;
 }
+
+.menu_dropdown {
+	position:absolute;
+}
+
+.menu_dropdown-2 {
+	position: absolute;
+	margin-top: 250px;
+}
+
+.menu_dropdown-3 {
+	position: absolute;
+	margin-top: 400px;
+}
+
 
 
