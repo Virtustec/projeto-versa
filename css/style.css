@@ -1,0 +1,39 @@
+body {
+	background-color: #f1f1f1 !important;
+
+}
+
+.container-login {
+	background-color: #313b3d;
+	margin-top: 100px;
+	padding: 50px;
+	width:400px;
+	display: flex;
+	justify-content: center;
+	border-radius: 0.30rem;
+}
+
+.container-cadastro {
+	background-color: #313b3d;
+	margin-top: 40px;
+	padding: 70px;
+	justify-content: center;
+	border-radius: 0.30rem;
+	width: 60vw !important;
+}
+
+.cadastro{
+	width: 400px !important;
+
+}
+
+h4{
+	color: #f1f1f1;
+	font-size: 40px !important;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+.titulo{
+	margin-bottom: 50px;
+}
