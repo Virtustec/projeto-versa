@@ -24,6 +24,10 @@ body {
   color: #e1ffff;
 }
 
+.menu-list {
+  margin-left: 10px;
+}
+
 .nav-side-menu .brand {
   background-color: #23282e;
   line-height: 50px;
